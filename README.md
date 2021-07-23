@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @8kmh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Salut, je m'appelle Maxime Maida
+- 👀 Je suis à la recherche d'un emploi sur Saint-Etienne en tant que développeur web junior
+- 🌱 J'apprend actuellement  React : https://fr.reactjs.org/
 - 📫 Contact : maida.maxime@protonmail.com
 
 <!---
