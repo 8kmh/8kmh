@@ -12,7 +12,7 @@ Vous pouvez consulter mes projets sur mon profil Github.
 
 # Objectifs
 
-Je suis actuellement à la recherche d'un emploi de développeur web junior pour acquérir de l'expérience professionnelle et continuer à apprendre et à me développer en tant que développeur. Je suis ouvert à toutes les opportunités et je suis persuadé que je peux apporter une valeur ajoutée à n'importe quelle équipe grâce à ma motivation et à ma passion pour la programmation.
+Je suis actuellement à la recherche d'un emploi de développeur web junior sur Lyon/Saint-Etienne pour acquérir de l'expérience professionnelle et continuer à apprendre et à me développer. Je suis ouvert à toutes les opportunités et je suis persuadé que je peux apporter une valeur ajoutée à n'importe quelle équipe grâce à ma motivation et à ma passion pour la programmation.
 
 # Contact
 N'hésitez pas à me contacter via mon profil Github ou à envoyer un email à mon adresse : maida.maxime@gmail.com Je suis impatient de discuter de mes compétences et de mon parcours avec vous !
